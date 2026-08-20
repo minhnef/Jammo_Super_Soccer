@@ -36,6 +36,7 @@
   <Project Path="Unity.VSCode.Editor.csproj" />
   <Project Path="Unity.Burst.Editor.csproj" />
   <Project Path="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
   <Project Path="Unity.Settings.Editor.csproj" />
   <Project Path="Unity.Recorder.csproj" />
   <Project Path="Unity.Multiplayer.Center.Common.csproj" />

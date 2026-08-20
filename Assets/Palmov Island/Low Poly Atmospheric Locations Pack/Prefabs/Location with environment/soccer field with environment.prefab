@@ -30,6 +30,8 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8063296630923281692}
+  - {fileID: 5379469326095955536}
+  - {fileID: 5379469325358153936}
   - {fileID: 8372662345649321648}
   - {fileID: 729376284695565792}
   m_Father: {fileID: 0}
@@ -79,8 +81,6 @@ Transform:
   - {fileID: 3477096494188854071}
   - {fileID: 3477096494520051549}
   - {fileID: 3477096494625654523}
-  - {fileID: 5379469326095955536}
-  - {fileID: 5379469325358153936}
   - {fileID: 1398473939814667935}
   - {fileID: 1398473941060114218}
   - {fileID: 1398473940123984308}
@@ -2646,7 +2646,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 8372662345649321648}
+    m_TransformParent: {fileID: 8971122523998631520}
     m_Modifications:
     - target: {fileID: 8584505987326644492, guid: 0778b0a253b1f2642bdc0fe098542888, type: 3}
       propertyPath: m_Name
@@ -2988,7 +2988,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 8372662345649321648}
+    m_TransformParent: {fileID: 8971122523998631520}
     m_Modifications:
     - target: {fileID: 8584505987326644492, guid: 0778b0a253b1f2642bdc0fe098542888, type: 3}
       propertyPath: m_Name
